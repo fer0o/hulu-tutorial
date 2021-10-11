@@ -1,4 +1,4 @@
-import request from "../utils/request";
+import request from "../utils/requests";
 import { useRouter } from "next/router";
 function Nav() {
     const router = useRouter(); //---> cambio de ruta
